@@ -12,6 +12,9 @@ public class User {
 	public void setUserEmail(String userEmail) {
 		this.userEmail=userEmail;
 	}
+	public String getUserPassword() {
+		return userPassword;
+	}
 	
 
 }
